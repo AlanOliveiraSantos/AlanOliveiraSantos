@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 ESTUDANDO: Atualmente aprendendo sobre: Angular , React e Vue.js<br><br>🎯 OBJETIVOS: Encontrar meu primeiro estágio para que possa me especializar em uma linguagem ou framework.</p>
+<p align="left">📚 ESTUDANDO: Atualmente aprendendo sobre: Angular , React <br><br>🎯 OBJETIVOS: Encontrar meu primeiro estágio para que possa me especializar em uma linguagem/framework.</p>
 
 ###
 
@@ -37,7 +37,6 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
 ###
