@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 ESTUDANDO: Atualmente aprendendo sobre: Angular , React <br><br>🎯 OBJETIVOS: Encontrar meu primeiro estágio para que possa me especializar em uma linguagem/framework.</p>
+<p align="left">📚 ESTUDANDO: Atualmente aprendendo sobre: Node.js , React <br><br>🎯 OBJETIVOS: Encontrar meu primeiro estágio para que possa me especializar em uma linguagem/framework.</p>
 
 ###
 
