@@ -1,4 +1,4 @@
-<img align="right" alt="" height="250px" src="./baixados (2).jpg">
+<img align="right" alt="" height="200px" src="./baixados (2).jpg">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFF00&random=false&width=500&height=40&lines=Olá,+eu+sou+o+Alan+Oliveira!+)](https://git.io/typing-svg)
 
