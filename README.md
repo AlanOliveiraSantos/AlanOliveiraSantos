@@ -1,11 +1,12 @@
-<img align="right" alt="" height="300px" src="./baixados(1).jpeg">
+<img align="right" alt="" height="250px" src="./baixados (2).jpg">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFF00&random=false&width=500&height=40&lines=Olá,+eu+sou+o+Alan+Oliveira!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFF00&random=false&width=500&height=40&lines=Olá,+eu+sou+o+Alan+Oliveira!+)](https://git.io/typing-svg)
 
 <p align="left">
-  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade Cruzeiro do Sul. Tenho muito interesse em desenvolvimento de software, especialmente para a web. Venho estudando Front-end   
-  desde o começo de 2024. Meu objetivo é me aperfeiçoar no Front-end e começar a estudar Back-end para me tornar um desenvolvedor Full-stack. Sou totalmente dedicado à minha área, sempre buscando aprender 
-  novos conceitos e tecnologias que possam facilitar meu trabalho diário como desenvolvedor.
+  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade Cruzeiro do Sul. Tenho muito interesse em desenvolvimento de software, 
+  especialmente para a web. Venho estudando Front-end desde o começo de 2024. Meu objetivo é me aperfeiçoar no Front-end e começar a estudar Back-end para me 
+  tornar um desenvolvedor Full-stack. Sou totalmente dedicado à minha área, sempre buscando aprender novos conceitos e tecnologias que possam facilitar meu 
+  trabalho diário como desenvolvedor.
 </p>
 
 <h3 align="left">Contate-me!</h3>
