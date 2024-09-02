@@ -24,7 +24,9 @@
   <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain.svg" height="30" alt="git logo"  />
   <img width="8" /> 
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" height="30" alt="tailwind logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="8" /> 
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwind logo"  />
   <img width="8" />
 </div>
 <h3 align="left">Looking for Studying!</h3>
