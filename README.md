@@ -1,4 +1,4 @@
-<img align="right" alt="" width="250" height="250px" src="./baixados (2).jpg">
+<img align="right" alt="" width="300" height="300px" src="./baixados (2).jpg">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFF00&random=false&width=500&height=40&lines=Olá,+eu+sou+o+Alan+Oliveira!+)](https://git.io/typing-svg)
 
@@ -26,7 +26,7 @@
   <img width="8" /> 
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="8" /> 
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwind logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo"  />
   <img width="8" />
 </div>
 <h3 align="left">Looking for Studying!</h3>
