@@ -11,7 +11,8 @@
 
 <h3 align="left">Contate-me!</h3>
 
-[![E-mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=0000CD&color:FFF)](mailto:alan.santos0121@gmail.com)
+alan.santos0121@gmail.com
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000CD&color:FFF)](https://www.linkedin.com/in/alan-oliveira-60642a2b9/)
 
 <h3 align="left">Learned/Studying Now!</h3>
