@@ -11,7 +11,7 @@
 
 <h3 align="left">Contate-me!</h3>
 
-alan.santos0121@gmail.com
+<p>Email: alan.santos0121@gmail.com </p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000CD&color:FFF)](https://www.linkedin.com/in/alan-oliveira-60642a2b9/)
 
