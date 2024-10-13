@@ -1,12 +1,10 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFF00&random=false&width=500&height=40&lines=Olá,+eu+sou+o+Alan+Oliveira!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=732626&random=false&width=500&height=40&lines=Olá,+eu+sou+o+Alan+Oliveira!+)](https://git.io/typing-svg)
 
 <p align="left">
-  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade Cruzeiro do Sul. Tenho muito interesse em desenvolvimento de software, 
-  especialmente para a web. Venho estudando Front-end desde o começo de 2024. Meu atual objetivo é me aperfeiçoar no Front-end, e no futuro estudar algumas 
-  técnologias Back-end. Sou totalmente dedicado à minha área, sempre buscando aprender novos conceitos e tecnologias que possam facilitar meu 
-  trabalho diário como desenvolvedor.
+  Olá, meu primeiro contato com programação foi no ensino médio, quando fiz <strong>Automação Industrial</strong> pela <strong>ETEC</strong>. Lá, aprendi <strong>C++, Ladder e Lógica de Programação. </strong>
+    No início de 2024, comecei a cursar <strong>Análise e Desenvolvimento de Sistemas</strong>, onde me apaixonei pelo desenvolvimento front-end. Desde então, venho desenvolvendo diversos projetos em <strong>HTML, CSS e JavaScript</strong>, sempre em contínuo aprendizado de novas tecnologias e métodos de desenvolvimento.
 </p>
 
 <h3 align="left">Contate-me!</h3>
@@ -27,7 +25,7 @@
   <img width="8" /> 
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="8" /> 
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sass/sass-original.svg" height="30" alt="tailwind logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo"  />
   <img width="8" />
 </div>
 <h3 align="left">Looking for Studying!</h3>
