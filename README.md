@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=732626&random=false&width=500&height=40&lines=Olá,+eu+sou+o+Alan+Oliveira!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=2000&color=732626&random=false&width=500&height=40&lines=Olá,+eu+sou+o+Alan+Oliveira!+)](https://git.io/typing-svg)
 
 <p align="left">
   Olá, meu primeiro contato com programação foi no ensino médio, quando fiz <strong>Automação Industrial</strong> pela <strong>ETEC</strong>. Lá, aprendi <strong>C++, Ladder e Lógica de Programação. </strong>
