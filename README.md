@@ -4,7 +4,7 @@
 
 <p align="left">
   Olá, meu primeiro contato com programação foi no ensino médio, quando fiz <strong>Automação Industrial</strong> pela <strong>ETEC</strong>. Lá, aprendi <strong>C++, Ladder e Lógica de Programação. </strong>
-    No início de 2024, comecei a cursar <strong>Análise e Desenvolvimento de Sistemas</strong>, onde me apaixonei pelo desenvolvimento front-end. Desde então, venho desenvolvendo diversos projetos em <strong>HTML, CSS e JavaScript</strong>, sempre em contínuo aprendizado de novas tecnologias e métodos de desenvolvimento.
+    No início de 2024, comecei a cursar <strong>Análise e Desenvolvimento de Sistemas</strong>, onde fui introduzido ao desenvolvimento front-end desde então, venho desenvolvendo diversos projetos em <strong>HTML, CSS e JavaScript</strong>, porem oque mais me atraiu foi o web designer que onde estou colocando meus esforços atualmente.
 </p>
 
 <h3 align="left">Contate-me!</h3>
