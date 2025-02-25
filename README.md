@@ -12,27 +12,3 @@
 <p>Email: alan.santos0121@gmail.com </p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000CD&color:FFF)](https://www.linkedin.com/in/alan-santos-designer/)
-
-<h3 align="left">Learned/Studying Now!</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain.svg" height="30" alt="git logo"  />
-  <img width="8" /> 
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="8" /> 
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo"  />
-  <img width="8" />
-</div>
-<h3 align="left">Looking for Studying!</h3>
-<div align="left">
-  <img src= "https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-line-wordmark.svg" height="50" alt="NodeJS logo" />
-  <img width="8" />
-  <img src= "https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" height="50" alt="NodeJS logo" />
-  <img width="8" />
-  
-</div>
