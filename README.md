@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=2000&color=732626&random=false&width=500&height=40&lines=Olá,+eu+sou+o+Alan+)](https://git.io/typing-svg)
 
 <p align="left">
- 👋Olá! Sou um estudante de Web Design buscando criar experiências visuais impactantes. Desenvolvo páginas web, posts, identidades visuais e tenho experiência com softwares como Photoshop, Figma, Canva, Miro e Notion. Estou sempre em aprendizado contínuo realizando cursos na área e em busca de uma oportunidade para atuar como Web Designer no mercado.
+ 👋Olá! Sou um estudante de Web Design buscando criar experiências visuais impactantes. Desenvolvo páginas web, posts, identidades visuais e tenho experiência com softwares como Photoshop, Figma, Canva, Miro e Notion. Estou sempre em aprendizado contínuo realizando cursos na área e em busca de uma oportunidade para atuar como Web Designer no mercado. </br>
 📚 Atualmente, curso o segundo ano do Tecnólogo em Análise e Desenvolvimento de Sistemas, ampliando meus conhecimentos para oferecer soluções mais integradas e inovadoras. No futuro, pretendo me especializar ainda mais com um Bacharelado em Design Gráfico ou Design Digital.
 </p>
 
