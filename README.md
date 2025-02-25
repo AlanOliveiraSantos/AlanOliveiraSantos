@@ -1,10 +1,10 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=2000&color=732626&random=false&width=500&height=40&lines=Olá,+eu+sou+o+Alan+Oliveira!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=2000&color=732626&random=false&width=500&height=40&lines=Olá,+eu+sou+o+Alan+)](https://git.io/typing-svg)
 
 <p align="left">
-  Olá, meu primeiro contato com programação foi no ensino médio, quando fiz <strong>Automação Industrial</strong> pela <strong>ETEC</strong>. Lá, aprendi <strong>C++, Ladder e Lógica de Programação. </strong>
-    No início de 2024, comecei a cursar <strong>Análise e Desenvolvimento de Sistemas</strong>, onde fui introduzido ao desenvolvimento front-end desde então, venho desenvolvendo diversos projetos em <strong>HTML, CSS e JavaScript</strong>, porem oque mais me atraiu foi o web designer que onde estou colocando meus esforços atualmente.
+ 👋Olá! Sou um estudante de Web Design buscando criar experiências visuais impactantes. Desenvolvo páginas web, posts, identidades visuais e tenho experiência com softwares como Photoshop, Figma, Canva, Miro e Notion. Estou sempre em aprendizado contínuo realizando cursos na área e em busca de uma oportunidade para atuar como Web Designer no mercado.
+📚 Atualmente, curso o segundo ano do Tecnólogo em Análise e Desenvolvimento de Sistemas, ampliando meus conhecimentos para oferecer soluções mais integradas e inovadoras. No futuro, pretendo me especializar ainda mais com um Bacharelado em Design Gráfico ou Design Digital.
 </p>
 
 <h3 align="left">Contate-me!</h3>
